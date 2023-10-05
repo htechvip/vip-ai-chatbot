@@ -5,8 +5,6 @@
 - Donate link: https://www.paypal.com/donate/?hosted_button_id=DA5T92XJCJ28E
 - Requires at least: 5.0 Tested up to: 6.3 Stable tag: 1.1 Requires PHP: 7.3 License: GPLv2 or later
 - License URI: http://www.gnu.org/licenses/gpl-2.0.html
-- Company: [https://www.htech.vip/](https://www.htech.vip)
-- Product page: [https://www.htech.vip/vipaichatbot/](https://www.htech.vip/vipaichatbot/)
 
 ## Meet VIP AI CHATBOT -- the ultimate engagement booster for your website! Hassle-free, AI-powered charm in less than blink of an eye #ChatDelight
 
