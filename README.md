@@ -7,6 +7,7 @@
 - License URI: http://www.gnu.org/licenses/gpl-2.0.html
 - Company: [https://www.htech.vip/](https://www.htech.vip)
 - Product page: [https://www.htech.vip/vipaichatbot/](https://www.htech.vip/vipaichatbot/)
+- Demo: [https://wp2.htechvip.com/](https://wp2.htechvip.com/)
 
 ## Meet VIP AI CHATBOT -- the ultimate engagement booster for your website! Hassle-free, AI-powered charm in less than blink of an eye #ChatDelight
 
